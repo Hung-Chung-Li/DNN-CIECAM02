@@ -9,6 +9,4 @@ Scatter plot of prediction
 
 Test results of DNN-based model
 || RMSE|MAE| MAX_AE| r2score| Pearson r|
-| ---------- | :-----------:  | :-----------: | :-----------: | :-----------: | :-----------: |
-|J| 0.207| 0.150| 4.719| 0.9998|0.9999| 
 
