@@ -8,6 +8,5 @@ Scatter plot of prediction
 ![image](https://github.com/Hung-Chung-Li/DNN-CIECAM02/blob/master/Results.png)
 
 Test results of DNN-based model
-
-|| RMSE|MAE| MAX_AE| r2score| Pearson r|
+| | RMSE|MAE| MAX_AE| r2score| Pearson r|
 
